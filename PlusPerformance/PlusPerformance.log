@@ -1,0 +1,13 @@
+giovanni@giovanni:~/Scrivania$ java -version
+java version "1.6.0_26"
+Java(TM) SE Runtime Environment (build 1.6.0_26-b03)
+Java HotSpot(TM) Client VM (build 20.1-b02, mixed mode, sharing)
+giovanni@giovanni:~/Scrivania$ java PlusPerformance
+
+i++ (300 * 300).
+	Execution time: 62340 ms.
+
+++i (300 * 300).
+	Execution time: 3713 ms.
+
+
